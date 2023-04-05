@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f22efa93-2a5d-40d1-8559-d635de05d009/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/PlanToDo",
+    "appService.deploySubpath": "."
+}
